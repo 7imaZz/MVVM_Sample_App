@@ -1,7 +1,8 @@
-package com.example.mvvmsampleapp
+package com.example.mvvmsampleapp.ui.auth
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.mvvmsampleapp.R
 
 class SignupActivity : AppCompatActivity() {
 
